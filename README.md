@@ -1,6 +1,6 @@
 # Christopher Young
 
-[hellotpher.com](hellotopher.com) | topher at hellotopher dot com
+[hellotopher.com](https://hellotopher.com) | topher at hellotopher dot com
 
 ## Summary
 
@@ -10,7 +10,7 @@ Senior Software Engineer with over 10 years of experience in software developmen
 
 ### Bitpanda
 
-#### Senior Software Engineer | January 2024 - Present | [bitpanda.com](bitpanda.com) | Barcelona, ES
+#### Senior Software Engineer | January 2024 - Present | [bitpanda.com](https://bitpanda.com) | Barcelona, ES
 
 - Architected and developed a Design System used across all web-based products, including white-label solutions, delivering 80+ components (React, TypeScript, PandaCSS, Nx, Style-Dictionary, Storybook)
 
@@ -24,7 +24,7 @@ Senior Software Engineer with over 10 years of experience in software developmen
 
 ### Embed Financial Technologies (acquired by FTX)
 
-#### Product Lead | August 2022 - May 2023 | [embed.com](embed.com) | Vancouver, WA, USA
+#### Product Lead | August 2022 - May 2023 | [https://embed.com](embed.com) | Vancouver, WA, USA
 
 - Delivered a customer recovery portal within 72 hours after FTX bankruptcy (React, TypeScript) to expedite immediate transfers (ACAT) of held securities and funds, minimizing financial fallout for FTX.US customers and safeguarding millions in user assets
 
@@ -32,7 +32,7 @@ Senior Software Engineer with over 10 years of experience in software developmen
 
 - Oversaw agile workflows to ensure on-time delivery of high-quality features
 
-#### Lead Software Engineer | July 2020 - August 2022 | embed.com | Vancouver, WA, USA
+#### Lead Software Engineer | July 2020 - August 2022 | [embed.com](https://embed.com) | Vancouver, WA, USA
 
 - Co-founded and grew the engineering team to 18, directly managing frontend engineers through onboarding, technical guidelines, and best practices to foster rapid team growth and strong retention
 
@@ -42,7 +42,7 @@ Senior Software Engineer with over 10 years of experience in software developmen
 
 ### Acorns
 
-#### Senior Software Engineer | October 2019 - June 2020 | acorns.com | Portland, OR, USA
+#### Senior Software Engineer | October 2019 - June 2020 | [acorns.com](https://acorns.com) | Portland, OR, USA
 
 - Lead front-end engineer for the Smart Deposit product that enables Acorns customers to allocate a percentage of a direct deposit into a custom distribution between the core Acorns products: Invest and Later
 
@@ -58,7 +58,7 @@ Senior Software Engineer with over 10 years of experience in software developmen
 
 ### Yorkshire Interactive
 
-#### Frontend Engineer | February 2018 - October 2019 | [yorkshireinteractive.com](yorkshireinteractive.com) | Portland, OR, USA
+#### Frontend Engineer | February 2018 - October 2019 | [yorkshireinteractive.com](https://yorkshireinteractive.com) | Portland, OR, USA
 
 - Built and launched web and native applications in an agency environment with expertise in fintech, biotech, and non-profit sectors
 
@@ -68,7 +68,7 @@ Senior Software Engineer with over 10 years of experience in software developmen
 
 ### Graybox
 
-#### Frontend Engineer | March 2016 - February 2018 | [graybox.co](graybox.co) | Portland, OR, USA
+#### Frontend Engineer | March 2016 - February 2018 | [graybox.co](https://graybox.co) | Portland, OR, USA
 
 - Member of the Applications development team specializing in building data-driven, full-stack web applications in an agency environment using React, React Native, Redux, ES6, Docker, Go, gRPC, RESTful services, D3, and Symfony (PHP).
 
@@ -78,7 +78,7 @@ Senior Software Engineer with over 10 years of experience in software developmen
 
 ### Levelwing
 
-#### UX Developer | June 2014 - March 2016 | [levelwing.com](levelwing.com) | Charleston, SC, USA
+#### UX Developer | June 2014 - March 2016 | [levelwing.com](https://levelwing.com) | Charleston, SC, USA
 
 - Created UX/visual/graphic design for websites, web applications, brand creation, and product design in a marketing agency focused on sales and customer conversion/retention.
 
@@ -88,7 +88,7 @@ Senior Software Engineer with over 10 years of experience in software developmen
 
 ### Aramark
 
-#### Graphic Designer | May 2009 - June 2014 | [aramark.com](aramark.com) | Charleston, SC, USA
+#### Graphic Designer | May 2009 - June 2014 | [aramark.com](https://aramark.com) | Charleston, SC, USA
 
 - Developed visual advertisements, branding, infographics, editorial design (brochures, display board presentations, informational handouts, menus) for the United States south-eastern regional college dining services through Aramark.
 
@@ -116,27 +116,34 @@ Design Thinking, API Driven Product Design, Agile Development, SCRUM
 
 ### Batchgeo
 
-#### Software Engineer | batchgeo.com
+#### Software Engineer | [batchgeo.com](https://batchgeo.com)
 
 A web application with over 90,000 users that will convert XLS and JSON formats of geographical data and generate embeddable maps that data with a suite of options and labeling.
+
 Stack: JavaScript, Mapbox, PHP
 
-#### Reel42
+### Reel42
 
-Creator | reel42.com
+#### Creator | [reel42.com](https://reel42.com)
+
 An experimental, creative playground made for the sole purpose of exploring the collision between music and art. Mixtapes are created and displayed alongside custom-made album artwork.
+
 Stack: TypeScript, Astro.js
 
-#### Gates Foundation Disease Dashboard
+### Gates Foundation Disease Dashboard
 
-Lead Frontend Engineer
+#### Lead Frontend Engineer
+
 A web dashboard and API that was built for <biotech non-profit> used to track and communicate the research and spread of diseases within 3rd world countries.
+
 Stack: JavaScript, React, Tailwind, Node.js, Express
 
-#### Gigaphoton Interactive Roadmap
+### Gigaphoton Interactive Roadmap
 
-Lead Frontend Engineer & UX Designer | gigaphoton.com
+#### Lead Frontend Engineer & UX Designer | [gigaphoton.com](https://gigaphoton.com)
+
 Acted as tech lead and director for an internal Komatsu initiative that is used by C-Level executives and other management to create an interactive visualization of all products, features, technologies, business goals, and manufacturers using React, GraphQL, Redux, Docker, Node.js, D3, and Express.
+
 Stack: React, GraphQL, Redux, D3, Node.js, Express, Docker
 
 ## Education
