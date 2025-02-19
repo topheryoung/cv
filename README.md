@@ -70,7 +70,7 @@ Senior Software Engineer with over 10 years of experience in software developmen
 
 #### Frontend Engineer | March 2016 - February 2018 | [graybox.co](https://graybox.co) | Portland, OR, USA
 
-- Member of the Applications development team specializing in building data-driven, full-stack web applications in an agency environment using React, React Native, Redux, ES6, Docker, Go, gRPC, RESTful services, D3, and Symfony (PHP).
+- Member of the Applications development team specializing in building data-driven, full-stack web applications in an agency environment using React, React Native, Redux, ES6, Docker, Go, gRPC, RESTful services, D3, and Symfony (PHP)
 
 - Created user experience strategies for a wide array of clients via UX user personas, journey maps, wireframes, and visual designs.
 
@@ -80,9 +80,9 @@ Senior Software Engineer with over 10 years of experience in software developmen
 
 #### UX Developer | June 2014 - March 2016 | [levelwing.com](https://levelwing.com) | Charleston, SC, USA
 
-- Created UX/visual/graphic design for websites, web applications, brand creation, and product design in a marketing agency focused on sales and customer conversion/retention.
+- Created UX/visual/graphic design for websites, web applications, brand creation, and product design in a marketing agency focused on sales and customer conversion/retention
 
-- Full-stack development in an array of digital domains: websites, CMS, marketing display ads, social platforms, data-driven dashboard applications.
+- Full-stack development in an array of digital domains: websites, CMS, marketing display ads, social platforms, data-driven dashboard applications
 
 - Clients: Bridgestone, Big Green Egg, Burt’s Bees, The New Primal
 
@@ -90,7 +90,7 @@ Senior Software Engineer with over 10 years of experience in software developmen
 
 #### Graphic Designer | May 2009 - June 2014 | [aramark.com](https://aramark.com) | Charleston, SC, USA
 
-- Developed visual advertisements, branding, infographics, editorial design (brochures, display board presentations, informational handouts, menus) for the United States south-eastern regional college dining services through Aramark.
+- Developed visual advertisements, branding, infographics, editorial design (brochures, display board presentations, informational handouts, menus) for the United States south-eastern regional college dining services through Aramark
 
 - Clients: Starbucks, Chick-fil-A, College of Charleston, Clemson University, Coastal Carolina University
 
@@ -118,33 +118,33 @@ Design Thinking, API Driven Product Design, Agile Development, SCRUM
 
 #### Software Engineer | [batchgeo.com](https://batchgeo.com)
 
-A web application with over 90,000 users that will convert XLS and JSON formats of geographical data and generate embeddable maps that data with a suite of options and labeling.
+- A web application with over 90,000 users that will convert XLS and JSON formats of geographical data and generate embeddable maps from XLS and JSON data, complete with labeling and customization options
 
-Stack: JavaScript, Mapbox, PHP
+- Stack: JavaScript, Mapbox, PHP
 
 ### Reel42
 
 #### Creator | [reel42.com](https://reel42.com)
 
-An experimental, creative playground made for the sole purpose of exploring the collision between music and art. Mixtapes are created and displayed alongside custom-made album artwork.
+- An experimental, creative playground made for the sole purpose of exploring the collision between music and art by curating themed mixtapes with custom album artwork
 
-Stack: TypeScript, Astro.js
+- Stack: TypeScript, Astro.js
 
 ### Gates Foundation Disease Dashboard
 
 #### Lead Frontend Engineer
 
-A web dashboard and API that was built for <biotech non-profit> used to track and communicate the research and spread of diseases within 3rd world countries.
+- A web dashboard and API that was built for the biotech non-profit used to track and communicate the spread of disease within third-world countries
 
-Stack: JavaScript, React, Tailwind, Node.js, Express
+- Stack: JavaScript, React, Tailwind, Node.js, Express
 
 ### Gigaphoton Interactive Roadmap
 
 #### Lead Frontend Engineer & UX Designer | [gigaphoton.com](https://gigaphoton.com)
 
-Acted as tech lead and director for an internal Komatsu initiative that is used by C-Level executives and other management to create an interactive visualization of all products, features, technologies, business goals, and manufacturers using React, GraphQL, Redux, Docker, Node.js, D3, and Express.
+- Acted as tech lead and director for an internal Komatsu initiative that is used by C-Level executives and other management to create an interactive visualization of all products, features, technologies, business goals, and manufacturers
 
-Stack: React, GraphQL, Redux, D3, Node.js, Express, Docker
+- Stack: React, GraphQL, Redux, D3, Node.js, Express, Docker
 
 ## Education
 
@@ -156,7 +156,9 @@ Bachelor of Arts in Studio Art (Printmaking)
 
 Other Education Notes:
 
-Participated in the CSCI Capstone, CLforJava (Common Lisp implementation for the JVM). Screen Printing independent study.
+- Participated in the CSCI Capstone, CLforJava (Common Lisp implementation for the JVM)
+
+- Screen Printing independent study
 
 ---
 
