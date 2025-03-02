@@ -1,6 +1,6 @@
 # Christopher Young
 
-[hellotopher.com](https://hellotopher.com) | topher at hellotopher dot com
+[hellotopher.com](https://hellotopher.com) | topher|at|hellotopher.com
 
 ## Summary
 
@@ -164,4 +164,4 @@ Other Education Notes:
 
 References available upon request
 
-Last Updated: 19|02|25
+Last Updated: 02|03|25
