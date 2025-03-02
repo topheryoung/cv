@@ -1,6 +1,6 @@
 # Christopher Young
 
-[hellotopher.com](https://hellotopher.com) | topher|at|hellotopher.com
+[hellotopher.com](https://hellotopher.com) | topher at hellotopher.com
 
 ## Summary
 
