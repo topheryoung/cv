@@ -24,7 +24,7 @@ Senior Software Engineer with over 10 years of experience in software developmen
 
 ### Embed Financial Technologies (acquired by FTX)
 
-#### Product Lead | August 2022 - May 2023 | [https://embed.com](embed.com) | Vancouver, WA, USA
+#### Product Lead | August 2022 - May 2023 | [embed.com](https://embed.com) | Vancouver, WA, USA
 
 - Delivered a customer recovery portal within 72 hours after FTX bankruptcy (React, TypeScript) to expedite immediate transfers (ACAT) of held securities and funds, minimizing financial fallout for FTX.US customers and safeguarding millions in user assets
 
