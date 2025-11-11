@@ -4,7 +4,7 @@
 
 ## Summary
 
-Senior Software Engineer with over 10 years of experience in software development and fintech. Proven track record of leading high-performing teams, delivering impactful software products, and fostering collaboration across engineering, product, and design. Passionate about building scalable and reusable systems/processes, mentoring teams, and enhancing the customer experience.
+Engineering Manager and Senior Software Engineer with over 10 years of experience in software development and management. Proven track record of leading and building high-performing teams, delivering impactful software products, and fostering collaboration across engineering, product, and design. Passionate about building scalable and reusable systems/processes, mentoring teams, and enhancing the developer experience.
 
 ## Experience
 
@@ -24,17 +24,17 @@ Senior Software Engineer with over 10 years of experience in software developmen
 
 ### Embed Financial Technologies (acquired by FTX)
 
-#### Product Lead | August 2022 - May 2023 | [embed.com](https://embed.com) | Vancouver, WA, USA
+#### Technical Product Manager | August 2022 - May 2023 | [embed.com](https://www.crunchbase.com/organization/embedfi) | Vancouver, WA, USA
 
 - Delivered a customer recovery portal within 72 hours after FTX bankruptcy (React, TypeScript) to expedite immediate transfers (ACAT) of held securities and funds, minimizing financial fallout for FTX.US customers and safeguarding millions in user assets
 
 - Launched FTX Stocks to US-based customers that managed millions in trade volume in Q3 2022
 
-- Oversaw agile workflows to ensure on-time delivery of high-quality features
+- Oversaw technical (UI) product roadmaps, processes, and timelines
 
-#### Lead Software Engineer | July 2020 - August 2022 | [embed.com](https://embed.com) | Vancouver, WA, USA
+#### Engineering Manager | July 2020 - August 2022 | [embed.com](https://www.crunchbase.com/organization/embedfi) | Vancouver, WA, USA
 
-- Co-founded and grew the engineering team to 18, directly managing frontend engineers through onboarding, technical guidelines, and best practices to foster rapid team growth and strong retention
+- Founded and scaled the frontend engineering team, leading hiring, onboarding, and professional development to drive team growth, cohesion, and long-term retention
 
 - Architected, contributed, and delivered web/UI applications, marketing websites, API documentation, and Design System for a US-based equity clearing and custody platform (React, TypeScript, Next.js, Storybook, Go, and gRPC) used to secure $20 million in seed and $60 million in Series A funding
 
@@ -100,6 +100,10 @@ Senior Software Engineer with over 10 years of experience in software developmen
 
 JavaScript, TypeScript, React, React Native, Next.js, Node.js, Express, Redux, GraphQL, Go, D3, HTML, CSS (SCSS, Sass, Tailwind, CSS-in-JS), Storybook, Jest, Docker
 
+### Leadership
+
+Team creation/building, Team Mentoring, Roadmap Prioritization, Cross-Functional Coordination, Hiring & Onboarding
+
 ### Design
 
 User Experience (UX), User Interface (UI), Product, Graphic, Visual, Illustration, Brand, Editorial, Printmaking, Animation, Motion Graphics
@@ -164,4 +168,4 @@ Other Education Notes:
 
 References available upon request
 
-Last Updated: 02|03|25
+Last Updated: 11|11|25
