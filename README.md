@@ -4,7 +4,7 @@
 
 ## Summary
 
-Engineering Manager and Senior Software Engineer with over 10 years of experience in software development and management. Proven track record of leading and building high-performing teams, delivering impactful software products, and fostering collaboration across engineering, product, and design. Passionate about building scalable and reusable systems/processes, mentoring teams, and enhancing the developer experience.
+Engineering leader with over 15 years of experience building exceptional web products and leading high-performing teams. I combine a background in Computer Science with a strong design sensibility to create user-focused, scalable products that integrate design, technology, and business. I prioritize abstraction, simplicity, and reusability through modern tools, custom design systems, and optimized build processes. While I specialize in fintech, my agency background includes award-winning work for clients ranging from non-profits to startups to enterprise organizations.
 
 ## Experience
 
@@ -14,9 +14,11 @@ Engineering Manager and Senior Software Engineer with over 10 years of experienc
 
 - Architected and developed a Design System used across all web-based products, including white-label solutions, delivering 80+ components (React, TypeScript, PandaCSS, Nx, Style-Dictionary, Storybook)
 
-- Lead an 8-person engineering team to rebuild the Bitpanda Broker web application (Next.js, TypeScript, GraphQL, Relay, Nx), overseeing sprint planning, code reviews, and knowledge sharing through paired programming and collaboration
+- Owned design token architecture and multi-theming deployments, enabling consistent multi-brand theming across products from a single source of truth (Style Dictionary, Figma)
 
-- Act as a technical mentor and people manager for peer developers, providing guidance and support that facilitates their professional growth and excellence in their roles
+- Lead an 11 person engineering team to rebuild the Bitpanda Broker web application (Next.js, TypeScript, GraphQL, Relay, Nx), overseeing coding and design guidelines and standards, code reviews, and knowledge sharing through paired programming and collaboration
+
+- Act as a technical mentor for peer developers, providing guidance and support that facilitates their professional growth and excellence in their roles
 
 - Guide technical strategy and cross-functional team alignment for multiple complex projects, ensuring timely, high-quality releases
 
@@ -34,9 +36,9 @@ Engineering Manager and Senior Software Engineer with over 10 years of experienc
 
 #### Lead Frontend Engineer/Engineering Manager | July 2020 - August 2022 | [embed.com](https://www.crunchbase.com/organization/embedfi) | Vancouver, WA, USA
 
-- Founded and scaled the frontend engineering team, leading hiring, onboarding, and professional development to drive team growth, cohesion, and long-term retention
-
 - Architected, contributed, and delivered web/UI applications, marketing websites, API documentation, and Design System for a US-based equity clearing and custody platform (React, TypeScript, Next.js, Storybook, Go, and gRPC) used to secure $20 million in seed and $60 million in Series A funding
+
+- Founded and scaled the frontend engineering team, leading hiring, onboarding, and professional development to drive team growth, cohesion, and long-term retention
 
 - Collaborated with cross-functional teams (executive, operations, compliance, and finance) to define, prioritize, manage, and deliver web/UI product roadmap features that resulted in an acquisition from FTX in June 2022
 
@@ -98,7 +100,7 @@ Engineering Manager and Senior Software Engineer with over 10 years of experienc
 
 ### Tech
 
-JavaScript, TypeScript, React, React Native, Next.js, Node.js, Express, Redux, GraphQL, Go, D3, HTML, CSS (SCSS, Sass, Tailwind, CSS-in-JS), Storybook, Jest, Docker
+JavaScript, TypeScript, React, React Native, Next.js, Node.js, Express, Redux, GraphQL (Relay, Apollo), Go, D3, HTML, CSS (SCSS, Sass, Tailwind, CSS-in-JS, PandaCSS, shadcn), Storybook, Jest, Monorepo tooling (Nx), Docker
 
 ### Leadership
 
@@ -168,4 +170,4 @@ Other Education Notes:
 
 References available upon request
 
-Last Updated: 11|11|25
+Last Updated: 08|06|26
