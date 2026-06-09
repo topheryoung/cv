@@ -32,7 +32,7 @@ Engineering Manager and Senior Software Engineer with over 10 years of experienc
 
 - Oversaw technical (UI) product roadmaps, processes, and timelines
 
-#### Engineering Manager | July 2020 - August 2022 | [embed.com](https://www.crunchbase.com/organization/embedfi) | Vancouver, WA, USA
+#### Lead Frontend Engineer/Engineering Manager | July 2020 - August 2022 | [embed.com](https://www.crunchbase.com/organization/embedfi) | Vancouver, WA, USA
 
 - Founded and scaled the frontend engineering team, leading hiring, onboarding, and professional development to drive team growth, cohesion, and long-term retention
 
